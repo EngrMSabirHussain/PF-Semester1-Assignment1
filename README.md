@@ -1,7 +1,12 @@
 # PF-Semester1-Assignment1
 Basic of C++ Language
 
-# Problem Questions
+# Assignment Question PDF:
+
+[assignment 1.pdf](https://github.com/M-SabirHussain/PF-Semester1-Assignment1/files/9032482/assignment.1.pdf)
+
+
+# Problem Questions:
 
 1. Write a program that inputs temperature from the user in Fahrenheit and converts
 it into Celsius degree using formula 5/9(F – 32).
